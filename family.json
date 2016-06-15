@@ -1,0 +1,24 @@
+{
+  "family":[
+    {
+      "name":"John Doe",
+      "phone":"(240)555-1234"
+    },
+    {
+      "name":"Jane Doe",
+      "phone":"(240)555-1235"
+    },
+    {
+      "name":"Johnny Doe",
+      "phone":"(240)555-1236"
+    },
+    {
+      "name":"Sue Doe",
+      "phone":"(240)555-1237"
+    },
+    {
+      "name":"Sally Doe",
+      "phone":"(240)555-1238"      
+    }
+  ]
+}
